@@ -1,0 +1,5 @@
+# ignored files
+# ignores extensions
+# ignored directories
+/venv
+# exceptions (eg: !test.log)
